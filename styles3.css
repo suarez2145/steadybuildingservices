@@ -151,6 +151,8 @@ html {
     font-size: 22px;
     color: black;
     font-weight: bold;
+    position: fixed;
+    top: 0;
 
 }
 
@@ -160,7 +162,9 @@ html {
     font-size: 22px;
     color: black;
     font-weight: bold;
-    position: sticky;
+    position: fixed;
+    top: 0;
+    left: 1px;
 }
 
 .main-text{
@@ -204,7 +208,7 @@ html {
 
 a:link {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .services-bar a:hover{
@@ -216,7 +220,7 @@ a:link {
 }
 
 a:visited {
-    color: black;
+    color: white;
 }
 
 
