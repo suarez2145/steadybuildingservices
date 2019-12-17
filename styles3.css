@@ -153,6 +153,7 @@ html {
     font-weight: bold;
     position: fixed;
     top: 0;
+    left: 1px;
 
 }
 
@@ -164,7 +165,7 @@ html {
     font-weight: bold;
     position: fixed;
     top: 0;
-    left: 1px;
+    right: 1px;
 }
 
 .main-text{
