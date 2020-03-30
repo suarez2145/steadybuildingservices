@@ -8,6 +8,25 @@ html {
 
 }
 
+
+
+
+
+.card-background-image-areas{
+    background-image: url('cleaning images/construction-workers-in-safety-reflective-vests-3681787.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.card-background-image-services{
+    background-image: url('cleaning images/cleaning-blue-knolling-flatlay.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .btn{
     background-color: indianred !important;
 }
@@ -109,8 +128,24 @@ html {
 
 } */
 
+.bigger-font-weight{
+    font-weight: 900 !important;
+}
+
+.big-font-weight{
+    font-weight: 700 !important;
+}
+.third-page-bg-img{
+    background: url("cleaning images/cleaning-blue-knolling-flatlay.jpg") center center; 
+    background-size:cover; 
+}
 
 
+
+.second-page-bg-img{
+    background: url("cleaning images/person-standing-on-stairs-2010830.jpg") center center; 
+    background-size:cover; 
+}
 
 .has-bg-img { 
     background: url("janitor.png")center center; 
