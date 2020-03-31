@@ -677,20 +677,6 @@ body{
 
 
 
-@media screen and (max-width: 375px) and (orientation: portrait){
-    .third-page-bg-img {
-        background-position: -600px center !important;
-    }
-
-    .margin-reduction{
-        margin-right: 55px;
-        margin-left: 55px;
-    }
-
-
-}
-
-
 
 
 
